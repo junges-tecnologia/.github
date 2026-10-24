@@ -1,45 +1,51 @@
-# Junges Tecnologia
+<a href="https://jungestecnologia.com"><img src="images/banner.webp" alt="Junges Tecnologia. Tecnologia para quem precisa de resultado." width="100%"></a>
 
-**Tecnologia para quem precisa de resultado.**
+Somos uma empresa brasileira de tecnologia. Desenvolvemos software, criamos produtos digitais e construímos soluções sob medida para empresas que precisam de eficiência, clareza e resultados concretos. Começamos entendendo o problema antes de propor qualquer solução.
 
-Criamos soluções sob medida para empresas que precisam de eficiência e automação, usando tecnologia para eliminar gargalos e simplificar a operação. Atuamos do planejamento à entrega, sempre começando pelo problema antes de propor qualquer solução.
+## Nossos serviços
 
-## O que fazemos
+**Consultoria em tecnologia.** Ajudamos sua empresa a tomar melhores decisões de tecnologia: avaliamos os sistemas que você já tem, revisamos arquitetura e código e definimos um plano claro para evoluir com segurança.
 
-| Serviço | Descrição |
-| --- | --- |
-| **Sites e páginas** | Sites institucionais, pessoais e páginas de marketing focadas em clareza, credibilidade e conversão. |
-| **Agendamento** | Soluções que organizam horários, reduzem trocas de mensagens e trazem mais controle para a operação. |
-| **Automação** | Automações que eliminam tarefas manuais, reduzem erros e tornam os processos mais eficientes. |
-| **Sistemas sob medida** | Sistemas que substituem planilhas e ferramentas genéricas por soluções alinhadas à realidade da empresa. |
+**Desenvolvimento de sites.** Criamos sites institucionais, pessoais e páginas de marketing focadas em clareza, credibilidade e conversão, alinhadas à identidade e aos objetivos da sua empresa.
 
-## Produtos
+**Automações com inteligência artificial.** Criamos automações inteligentes para eliminar tarefas manuais, reduzir erros e tornar processos mais eficientes no seu dia a dia.
 
-**Agro Junges.** Plataforma de gestão agrícola para o produtor rural. Acompanhamento da lavoura com imagens de satélite (NDVI), análises de solo, mapas de aplicação em taxa variável e controle de insumos, estoque e custos, na web e no celular.
+**Sistemas customizados.** Desenvolvemos sistemas sob medida para atender fluxos específicos da operação, substituindo planilhas e ferramentas genéricas por soluções alinhadas à realidade da empresa.
 
-**Agendamento Online.** Plataforma de gestão de agendamentos para clínicas, consultórios, salões e prestadores de serviço.
+## Nossos produtos
 
-**Automação de Atendimento.** Chatbot integrado ao WhatsApp para automatizar o atendimento inicial, qualificar leads e agilizar respostas.
+<img src="images/work.webp" alt="As páginas do Agro Junges, do Laravel Kafka e do EasyCal" width="100%">
+
+**[Agro Junges](https://agrojunges.com).** Plataforma de gestão agrícola para o produtor rural. Acompanhe a lavoura com imagens de satélite, análises de solo, mapas de aplicação em taxa variável e controle de insumos, estoque e custos da propriedade, na web e no celular.
+
+**[EasyCal](https://easycal.app).** Plataforma completa para gestão de agendamentos online. Ideal para clínicas, consultórios, salões e prestadores de serviço que precisam organizar sua agenda de forma eficiente.
+
+**Automação de Atendimento.** Chatbot inteligente integrado ao WhatsApp para automatizar o atendimento inicial, qualificar leads e agilizar respostas, liberando sua equipe para focar no que importa.
+
+**[Laravel Kafka](https://github.com/mateusjunges/laravel-kafka).** Pacote open source que leva o Apache Kafka para aplicações Laravel, para produzir e consumir mensagens com poucas linhas de código.
+
+## Como trabalhamos
+
+**Descoberta.** Entendemos o seu negócio, os gargalos da operação e o que realmente precisa ser resolvido.
+
+**Construção.** Desenvolvemos em ciclos curtos, com entregas frequentes e comunicação transparente.
+
+**Entrega.** Colocamos a solução no ar com testes, monitoramento e suporte para a sua equipe.
 
 ## O que valorizamos
 
 **Simplicidade.** A melhor solução é a mais simples que resolve o problema. Código limpo, interfaces claras, processos diretos.
 
-**Comunicação clara.** Explicamos decisões técnicas de forma compreensível e mantemos o cliente informado em cada etapa.
+**Comunicação clara.** Falamos a sua língua. Explicamos decisões técnicas de forma compreensível e mantemos você informado em cada etapa.
 
-**Resultado acima de tudo.** Tecnologia é meio, não fim. O que importa é resolver o problema do negócio, não usar a ferramenta da moda.
+**Resultado acima de tudo.** Tecnologia é meio, não fim. O que importa é resolver o problema do seu negócio, não usar a ferramenta da moda.
 
-## Tecnologias
+Trabalhamos principalmente com PHP, Laravel, TypeScript, React, Expo e Tailwind CSS.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<br>
 
-## Contato
+<a href="https://jungestecnologia.com/contato"><img src="images/contact.webp" alt="Vamos falar sobre o seu desafio? Fale conosco." width="100%"></a>
 
-Quer conversar sobre um projeto? Fale com a gente pelo [site](https://jungestecnologia.com/contato) ou pelo [Instagram](https://instagram.com/jungestecnologia).
+Fale com a gente pelo [site](https://jungestecnologia.com/contato) ou pelo [Instagram](https://instagram.com/jungestecnologia).
 
 <sub>Junges Tecnologia LTDA. Brasil.</sub>
